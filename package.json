@@ -1,8 +1,8 @@
 {
-	"name": "dashboard-template",
-	"private": true,
+	"name": "antd-dashboard-template",
 	"version": "0.0.0",
 	"type": "module",
+	"bin": "./bin/cli.js",
 	"scripts": {
 		"dev": "vite",
 		"build": "tsc && vite build",
